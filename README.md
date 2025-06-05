@@ -19,7 +19,7 @@ Miguel's File Cleaner is a batch script designed for Windows 11 systems to remov
 
 ## Usage
 
-1. **Download the Script:** [Provide a link to the script or repository here]
+1. **Download the Script:** [https://github.com/MiguelAutomate/Windows-File-Cleaner/blob/main/cleaner.bat]
 2. **Run as Administrator:** Right-click on the script file and select "Run as administrator" to ensure it has the necessary permissions.
 3. **User Confirmation:** The script will prompt you to confirm before proceeding. Enter 'Y' to continue or any other key to cancel.
 4. **Cleaning Process:** The script will clean the specified directories and empty the Recycle Bin. Progress and any issues encountered will be logged in `FileCleaner.log`.
@@ -30,10 +30,6 @@ Miguel's File Cleaner is a batch script designed for Windows 11 systems to remov
 - **Administrative Rights:** The script requires administrative privileges to function correctly. Ensure you run it as an administrator.
 - **Caution:** While the script targets common temporary file locations, always review the code and understand its actions before running it on your system.
 - **Logging:** The script creates a log file (`FileCleaner.log`) in the same directory as the script, detailing the cleaning actions taken. Review this log for any errors or skipped directories.
-
-## License
-
-[Specify the license under which you're releasing the script, e.g., MIT License. Provide a link to the license file if applicable.]
 
 ## Disclaimer
 
